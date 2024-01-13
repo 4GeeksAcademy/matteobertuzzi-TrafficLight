@@ -1,12 +1,13 @@
 import React from "react";
+import TrafficLight from './TrafLight'
 
 
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center">
-			
-		</div>
+		<>
+			<TrafficLight />
+		</>
 	);
 };
 

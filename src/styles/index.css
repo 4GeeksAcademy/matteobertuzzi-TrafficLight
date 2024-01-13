@@ -1,0 +1,21 @@
+.trafficLight{
+    display: flex;
+    flex-direction: column;
+    background: #808080;
+    width: 350px;
+    height: 800px;
+    margin-top: 80px;
+    border-radius: 15%;
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 100%;
+    margin: auto
+}
+
+body{
+    background:"#FAF9F6";
+}
